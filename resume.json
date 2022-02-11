@@ -1,0 +1,26 @@
+[
+    {
+    "name": "KYLE KRYZEL CARANDANG",
+    "objective": "To be part of a competitive workforce where I could share my knowledge and skills and gain new knowledge ",
+    "obj2": "for the betterment of myself at the same time the company will benefit.",
+    "address": "Pagsanjan, Laguna",
+    "phone_number": "09123456789",
+    "email": "kylekryzelcarandang4@gmail.com",
+    "skills": ["Computer Literate", "Cooking and Baking", "Active Listening", "Management Experience"],
+    "citizenship": "Filipino",
+    "age": "19",
+    "civil_status": "Single",
+    "religion": "Roman Catholic",
+    "language": "English and Filipino",
+    "education": [
+        {
+            "school": "Laguna Senior High School",
+            "year": "2019-2021"
+        },
+        {
+            "school": "Polytechnic University of the Philippines",
+            "year": "2021-Present"
+        }
+    ]
+    }
+]
